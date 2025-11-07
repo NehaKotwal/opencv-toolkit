@@ -6,6 +6,9 @@ A collection of OpenCV C++ programs demonstrating various image processing techn
 
 ---
 
+## 📂 Modules
+- [🖼️ Image Manipulation Utilities](image-manipulation/README.md) – OpenCV-based tools for flipping, blurring, edge detection, and more.
+
 ## 🚀 Building
 
 ### Requirements
