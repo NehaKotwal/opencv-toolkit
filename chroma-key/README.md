@@ -16,4 +16,4 @@ This module adds powerful green-screen style compositing and color analysis tool
 
 ### 🖼️ Output preview
 
-![Output](output/output.png)
+![Output](output/output.jpg)
